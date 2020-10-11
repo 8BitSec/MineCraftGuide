@@ -1,108 +1,98 @@
 .nav-container {
-/*background-image: linear-gradient(to left, #F65058FF,#FBDE44FF,#28334AFF);  */
-background-color: #FFD653FF;
-width: 98%;
-  position: fixed;
-  left:0.75%; 
-	border: solid #DDB65DFF 5px;
-	border-top-right-radius:  25px;
-	border-top-left-radius: 25px; 
-	border-bottom-left-radius: 25px;
-	border-bottom-right-radius: 25px;
-}
-  nav
- 	{
-  	text-align: center;
-  	width: 640px;
-  margin: 0px auto; 
-	}
-
-	.login
-	{
-	background-color: #343148FF;
-  font-size: 40px; 
-  color: #ffffff;
-  text-align: left;
-  text-decoration: none;
- 
-	}
-.links
-{ 
-	font-size: 40px; 
-  	text-align: center;	
-  
- }
- 
-.home1
-{	
-	color: #ADEFD1FF;
-	font-size: 25px; 
-	text-align: justify;
-	padding: 20px;
+    /*background-image: linear-gradient(to left, #F65058FF,#FBDE44FF,#28334AFF);  */
+    background-color: #FFD653FF;
+    width: 98%;
+    position: fixed;
+    left: 0.75%;
+    border: solid #DDB65DFF 5px;
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
 }
 
-h1
-{	
-	  text-align: center;	
-	  font-size: 72px;
-	  background: -webkit-linear-gradient(-135deg, #606060FF, #D6ED17FF,#ffffff, #16161d);
-	  -webkit-background-clip: text;
-	  -webkit-text-fill-color: transparent;
-	  padding-top: 30px;
-	/*color:#DAA03DFF;
+nav {
+    text-align: center;
+    width: 640px;
+    margin: 0px auto;
+}
+
+.login {
+    background-color: #343148FF;
+    font-size: 40px;
+    color: #ffffff;
+    text-align: left;
+    text-decoration: none;
+}
+
+.links {
+    font-size: 40px;
+    text-align: center;
+}
+
+.home1 {
+    color: #ADEFD1FF;
+    font-size: 25px;
+    text-align: justify;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 72px;
+    background: -webkit-linear-gradient(-135deg, #606060FF, #D6ED17FF, #ffffff, #16161d);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    padding-top: 30px;
+    /*color:#DAA03DFF;
 	padding-top: 30px;
 	/*background-image: linear-gradient(to left, red,cyan,yellow,green,blue,indigo,violet);*/
 }
-.login
-{
-	text-align: center;	
-	  font-size: 72px;
-	  background: -webkit-linear-gradient(-135deg, #606060FF, #D6ED17FF,#ffffff, #16161d);
-	  -webkit-background-clip: text;
-	  -webkit-text-fill-color: transparent;
-	  padding-top: 60px;
-	  display: inline-block; 
 
+.login {
+    text-align: center;
+    font-size: 72px;
+    background: -webkit-linear-gradient(-135deg, #606060FF, #D6ED17FF, #ffffff, #16161d);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    padding-top: 60px;
+    display: inline-block;
 }
 
-form
-{
-	text-align: center;
-	font-size: 30px;
-	
+form {
+    text-align: center;
+    font-size: 30px;
 }
-input
-{
-	text-align: center;
-	font-size: inherit;
-	padding: 10px;
-	margin:  10px;
-	border: solid #A13941FF 3px;
-	border-top-right-radius:  2px;
-	border-top-left-radius: 25px; 
-	border-bottom-left-radius: 2px;
-	border-bottom-right-radius: 25px;
-	background-image: linear-gradient(to left, #F0E1B9FF,#F3DB74FF)
 
+input {
+    text-align: center;
+    font-size: inherit;
+    padding: 10px;
+    margin: 10px;
+    border: solid #A13941FF 3px;
+    border-top-right-radius: 2px;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 2px;
+    border-bottom-right-radius: 25px;
+    background-image: linear-gradient(to left, #F0E1B9FF, #F3DB74FF)
 }
-input[type="button"]
- {
- 		background-image: linear-gradient(to left, #FFD653FF,#EEB238FF)
 
- }
- input:focus{
-	background-image: linear-gradient(to left, #DDB65DFF,#6E4C1EFF)
- }
+input[type="button"] {
+    background-image: linear-gradient(to left, #FFD653FF, #EEB238FF)
+}
 
-body
-{
-	padding-top: 10px;
-	background-color: #1C1C1BFF;
-	border: solid #FFFFFFFF 5px;
-	padding: 5px;
-	padding-bottom: 100px;
-	border-top-right-radius:  25px;
-	border-top-left-radius: 25px; 
-	border-bottom-left-radius: 25px;
-	border-bottom-right-radius: 25px;
+input:focus {
+    background-image: linear-gradient(to left, #DDB65DFF, #6E4C1EFF)
+}
+
+body {
+    padding-top: 10px;
+    background-color: #1C1C1BFF;
+    border: solid #FFFFFFFF 5px;
+    padding: 5px;
+    padding-bottom: 100px;
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
 }

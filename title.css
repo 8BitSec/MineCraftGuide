@@ -1,20 +1,20 @@
-h1
-{
-	text-align: center;
+h1 {
+    text-align: center;
 }
-span
-{
-	align-self: center;
-	padding: 30px;
-	font-size: 30px;
+
+span {
+    align-self: center;
+    padding: 30px;
+    font-size: 30px;
 }
-body
-{	padding: 30px;
-	border: solid brown 5px;
-	border-top-right-radius:  25px;
-	border-top-left-radius: 25px; 
-	border-bottom-right-radius: 25px;
-	border-bottom-left-radius: 25px;
-	background-color: #16161d;
-	color: #ffffff;
+
+body {
+    padding: 30px;
+    border: solid brown 5px;
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-bottom-left-radius: 25px;
+    background-color: #16161d;
+    color: #ffffff;
 }
